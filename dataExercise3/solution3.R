@@ -1,5 +1,4 @@
-# setwd("/Users/lindadib/Work/SIB-BCF/work/SIB_tutoring/Dib_EA/2019/dataExercice3")
-setwd("/Users/onurtidin/Desktop/desktopvirtual/SIBEnrichmentAnalysis/exercise/dataExercise3")
+setwd(".../dataExercise3")
 #source(https://bioconductor.org/biocLite.R)
 biocLite("clusterProfiler")
 require(clusterProfiler) 
