@@ -1,5 +1,5 @@
 #Get data
-setwd("/Users/onurtidin/Desktop/desktopvirtual/SIBEnrichmentAnalysis/exercise/dataExercise2")
+setwd(".../dataExercise2")
 
 #Question1
 rat<-read.table("rat_KD.txt", sep = "\t", header = TRUE,stringsAsFactors=FALSE)
