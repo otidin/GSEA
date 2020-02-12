@@ -1,6 +1,4 @@
-setwd("/Users/lindadib/Work/SIB-BCF/work/SIB_tutoring/Dib_EA/2019/dataExercice4")
-
-
+setwd(".../dataExercice4")
 
 require(clusterProfiler)
 library(org.Hs.eg.db)
